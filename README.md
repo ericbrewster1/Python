@@ -1,2 +1,3 @@
 # Python
-Python code
+Python code  
+folder ling has linguistic assignments. Basic level python code
